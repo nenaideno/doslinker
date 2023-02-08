@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'dos';
+    src: url(./../../assets/fonts/dos.ttf);
+}
+
+* {
+    font-family: 'dos';
+    letter-spacing: -1px;
+    font-size: 16px;
+    background: #000;
+    color: #A5A5A5;
+}
+
+.linkshorter {
+    padding-top: 50px;
+}
