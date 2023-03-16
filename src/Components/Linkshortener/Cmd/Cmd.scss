@@ -1,0 +1,46 @@
+.cmd-item {
+    text-align: left;
+    margin-left: 250px;
+    & .row {
+        margin-top: 10px;
+
+        &:nth-child(1) {
+            margin-top: 0;
+        }
+    }
+
+    & .cmd-input {
+        border: none;
+        outline: none;
+        width: 80%;
+        text-decoration: underline #E23F3F;
+        color: #E23F3F;
+        display: inline;
+
+        &:valid {
+            text-decoration: underline #41F96A;
+            color: #41F96A;
+        }
+    }
+
+    & .cmd-result {
+        margin-left: 10px;
+        margin-right: 10px;
+        color: #41F96A;
+    }
+
+    & .cmd-button {
+        font-size: 18px;
+        outline: none;
+        border: none;
+        color: #fff;
+    }
+
+    & .cmd-barcode {
+        width: 250px;
+    }
+
+    & .cmd-link {
+        text-decoration: none;
+    }
+}
