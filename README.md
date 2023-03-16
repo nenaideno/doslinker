@@ -1,9 +1,9 @@
 # MSDOS-like link shortener
 
-[![An example of how a web application works](./public/interface.png)](https://doslinker.vercel.app/linkshorter)
+[![An example of how a web application works](./public/interface.png)](https://doslinker.vercel.app/linkshortener)
 
 # About 
-This is client side of [**MSDOS link shortener**](https://doslinker.vercel.app/linkshorter) app. This app is designed to make **links** easy to read and paste it into other sites.
+This is client side of [**MSDOS link shortener**](https://doslinker.vercel.app/linkshortener) app. This app is designed to make **links** easy to read and paste it into other sites.
 
 # Client side Technology Stack 
 1. TypeScript (4.9.5)
